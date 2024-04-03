@@ -1,0 +1,15 @@
+/Users/marttiumbleja/Projects/Week4Loops/WhileLoops/obj/Debug/net6.0/WhileLoops.csproj.AssemblyReference.cache
+/Users/marttiumbleja/Projects/Week4Loops/WhileLoops/obj/Debug/net6.0/WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marttiumbleja/Projects/Week4Loops/WhileLoops/obj/Debug/net6.0/WhileLoops.AssemblyInfoInputs.cache
+/Users/marttiumbleja/Projects/Week4Loops/WhileLoops/obj/Debug/net6.0/WhileLoops.AssemblyInfo.cs
+/Users/marttiumbleja/Projects/Week4Loops/WhileLoops/obj/Debug/net6.0/WhileLoops.csproj.CoreCompileInputs.cache
+/Users/marttiumbleja/Projects/Week4Loops/WhileLoops/bin/Debug/net6.0/WhileLoops
+/Users/marttiumbleja/Projects/Week4Loops/WhileLoops/bin/Debug/net6.0/WhileLoops.deps.json
+/Users/marttiumbleja/Projects/Week4Loops/WhileLoops/bin/Debug/net6.0/WhileLoops.runtimeconfig.json
+/Users/marttiumbleja/Projects/Week4Loops/WhileLoops/bin/Debug/net6.0/WhileLoops.dll
+/Users/marttiumbleja/Projects/Week4Loops/WhileLoops/bin/Debug/net6.0/WhileLoops.pdb
+/Users/marttiumbleja/Projects/Week4Loops/WhileLoops/obj/Debug/net6.0/WhileLoops.dll
+/Users/marttiumbleja/Projects/Week4Loops/WhileLoops/obj/Debug/net6.0/refint/WhileLoops.dll
+/Users/marttiumbleja/Projects/Week4Loops/WhileLoops/obj/Debug/net6.0/WhileLoops.pdb
+/Users/marttiumbleja/Projects/Week4Loops/WhileLoops/obj/Debug/net6.0/WhileLoops.genruntimeconfig.cache
+/Users/marttiumbleja/Projects/Week4Loops/WhileLoops/obj/Debug/net6.0/ref/WhileLoops.dll

@@ -1,0 +1,7 @@
+﻿<Properties StartupConfiguration="{9745842A-79C2-47DB-AAFD-2DEB6C13C77D}|Default">
+  <MonoDevelop.Ide.ItemProperties.RandomNumber PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Week4Loops PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ForLoopSum PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.WhileLoops FirstBuild="True" />
+</Properties>
